@@ -1,5 +1,4 @@
-sources/app/screens/scr_menu.cpp:97:6:void frame_white_location()	0	static
-sources/app/screens/scr_menu.cpp:265:6:void update_menu_screen_chosse()	0	static
-sources/app/screens/scr_menu.cpp:404:1:cpp)	12	static
-sources/app/screens/scr_menu.cpp:208:6:void view_scr_menu()	56	static
-sources/app/screens/scr_menu.cpp:310:6:void scr_menu_handle(ak_msg_t*)	8	static
+sources/app/screens/scr_menu.cpp:226:6:void update_menu_screen_chosse()	8	static
+sources/app/screens/scr_menu.cpp:294:1:cpp)	0	static
+sources/app/screens/scr_menu.cpp:170:6:void view_scr_menu()	56	static
+sources/app/screens/scr_menu.cpp:235:6:void scr_menu_handle(ak_msg_t*)	16	static

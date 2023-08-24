@@ -19,6 +19,13 @@
 
 #include "screens_bitmap.h"
 
+// Screen 
+#define STEP_MENU_CHOSSE				(22)
+#define NUMBER_MENU_ITEMS				(5)
+#define	SCREEN_MENU_H					(64)
+
+
+
 extern view_dynamic_t dyn_view_menu;
 
 extern view_screen_t scr_menu;
